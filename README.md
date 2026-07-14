@@ -95,12 +95,10 @@ The project includes the following analyses:
 ```
 Trader_Performance_Assignment/
 │
-├── data/
-│   ├── historical_data.csv
-│   └── fear_greed_index.csv
-│
 ├── notebook/
 │   └── Bitcoin_Sentiment_analysis.ipynb
+│   └── historical_data.csv
+|   └── fear_greed_index.csv
 │
 ├── images/
 │   ├── trades_by_sentiment.png
